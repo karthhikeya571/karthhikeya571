@@ -60,9 +60,9 @@ Data Structures, Algorithms and Problem Solving Programs.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karthhikeya571&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karthhikeya571&layout=compact&theme=tokyonight)
+## 🌐 Connect With Me
+[LinkedIn](https://www.linkedin.com/in/karthik-madivili-a61006294/)  
+[GitHub](https://github.com/karthhikeya571)
 
 ---
 
